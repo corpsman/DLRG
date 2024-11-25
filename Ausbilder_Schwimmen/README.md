@@ -7,4 +7,8 @@ Im Jahr 2024 mussten zum Erfolgreichen Bestehen
 - Eine Theoretische Prüfung abgelegt
 - Eine aus 12 Lehrproben Praktisch bestanden werden
 
-In diesem Ordner stelle ich "meine" gesammelten Dokumente zum ersten und letzen Punkt zur Verfügung. Bitte beachten ab 2025 kommen 4 weitere Lehrproben hinzu, diese sind aktuell nicht in der Liste enthalten.
+In diesem Ordner stelle ich "meine" gesammelten Dokumente zum ersten und letzen Punkt zur Verfügung ( Die Theoretische Prüfung kann in der Meine DLRG APP geübt werden). Bitte beachten, ab 2025 kommen 4 weitere Lehrproben hinzu, diese sind aktuell nicht in der Liste enthalten.
+
+Alle Inhalte zur Prüfung Ausbilder Schwimmen stehen dabei im [Ausbilderhandbuch Schwimmen](https://www.flotteflosseingelheim.de/wp-content/uploads/2022/12/DLRG-Ausbilderhandbuch-Schwimmen-lernen.pdf) (im Jahr 2024 war der Stand von 2007 immer noch aktuell).
+
+Ebenfalls zu empfehlen ist: "Methodische Übungsreihen Anfänger - /Schwimmen" (Thomas Krug), 4. Auflage, DLRG LV, 2019, zu beziehen über die DLRG Materialstelle.
