@@ -6,4 +6,4 @@ In diesem Repository stelle ich diverse hoffentlich für andere DLRG Mitglieder 
 
 ## Achtung
 
-Ich wohne und Lebe im Landesverband Württemberg. Jeder Landesverband der DLRG spielt ein bisschen nach seinen eigenen Spielregeln, auch "veralten" informationen mit der Zeit. Aus diesem Grund kann ich in keinster Weiße dafür garantieren dass die hier zur Verfügung gestellten Informationen Aktuell, gültig oder für andere Landesverbände Anwendbar sind. Die Nutzung geschieht ausdrücklich auf eigene Gefahr und alle herunter geladenen Dokumente sollten noch einmal explizit auf Anwendbarkeit geprüft werden.
+Ich wohne und Lebe im Landesverband Württemberg. Jeder Landesverband der DLRG spielt ein bisschen nach seinen eigenen Spielregeln, auch "veralten" informationen mit der Zeit. Aus diesem Grund kann ich in keinster Weiße dafür garantieren dass die hier zur Verfügung gestellten Informationen Aktuell, gültig oder für andere Landesverbände Anwendbar sind. Die Nutzung geschieht ausdrücklich auf eigene Gefahr und alle Dokumente sollten vor ihrer Nutzung noch einmal explizit auf Anwendbarkeit geprüft werden.
