@@ -23,38 +23,39 @@ Zur Durchführung der Lehrproben stehen diverse didaktische Hilfsmittel zur Verf
 #### Generell gilt:
 - jede Übung auf dem Bauch, kann auch auf dem Rücken widerhohlt werden
 - Mindestens ein Ausbilder muss immer alle Teilnehmer im Blickfeld haben!
-- den Assistenten aktiv einsetzten, z.B. bei neuen Übungen diesen die Übungen zeigen lassen, Übungsmaterial dass während der Lehrprobe im Wasser benötigt wird holt / bringt der Assistent
+- den Assistenten aktiv einsetzen, z.B. bei neuen Übungen diesen die Übungen zeigen lassen, Übungsmaterial welches während der Lehrprobe im Wasser benötigt wird holt / bringt der Assistent
 - Bei vielen Teilnehmern 2 Gruppen bilden und eine durch den Assistenten führen lassen (Achtung, der Assistent arbeitet nicht selbständig, sondern auf Anweisung des Ausbilders)
 
 Der grobe Ablauf einer Übunstunde sieht dabei ungefähr immer so aus:
 - Begin am Land im stehen
 - Übungen am Beckenrand (im Sitzen)
-- Übungen am Beckenrand (im liegen)
-- Übungen am Beckenrand liegend im Wasser (Achtung, über Leiter / Treppe ins Wasser gehen!)
-- Übungen im Wasser mit Hilfe des Ausbilders / Assistenten
-- Übungen im Wasser mit Hilfsmitteln (Brettchen / Pullbuoy / Nudel ..)
+- Übungen am Beckenrand (im Liegen)
+- Übungen am Beckenrand liegend im Wasser (Achtung, über Leiter/ Treppe ins Wasser gehen!)
+- Übungen im Wasser mit Hilfe des Ausbilders/ Assistenten
+- Übungen im Wasser mit Hilfsmitteln (Brettchen/ Pullbuoy/ Nudel ..)
 - Übungen im Wasser ohne Hilfsmittel
 - Abschluß an Land 
 
 #### Allgemeines Schema einer Übungsstunde/ Lehrprobe:
 
 - Begrüßung
-  - Zielgruppe Definieren (alter und Fähigkeiten)
-  - Badeaufsicht definieren (ist immer der Prüfer)
-  - Gesundheitscheck (kein Schmuck, alle Gesund ?)
-  - Assistenten bestimmen (für Wasergewöhung typischerweise 2, sonst einer)
+  - Zielgruppe Definieren (Alter und Fähigkeiten/ Ziel Abzeichen [Seepferdchen/ DSA Bronze..])
+  - Sich selbst vorstellen
+  - Assistenten benennen (für Wasergewöhung typischerweise 2, sonst einer)
+  - Badeaufsicht benennen (ist immer der Prüfer)
   - ggf. Tauchaufsicht definieren (nur bei Rettungsschwimmer Lehrproben notwendig)
-  - erwähnen Lernziel letzter Stunde darauf aufbauend Lernziel diese Stunde
+  - Gesundheitscheck (kein Schmuck, alle Gesund ?)
+  - Benennen des Lernziels der letzten Stunde, darauf aufbauend Lernziel aktuelle Stunde
 - (V) Lernziel Vorführen durch Assistent (im Wasser) (=> Die Übungstunde muss am ende immer das Lernziel als Übung beinhalten!)
 - (E) Lernziel Vorführen durch Assistent (mit Erklärung und Hinweise auf Besonderheiten)
 - (V) An Land "Langsame" Widerhohlung des Lernziels durch Ausbilder
-- (E) An Land "Langsame" Widerhohlung des Lernziels durch Ausbilder mit Erklärung
+- (E) An Land "Langsame" Widerhohlung des Lernziels durch Ausbilder mit detailierter Erklärung
 - (N) An Land gemeinsames Widerhohlen mit den Teilnehmern 
-- (Ü) Üben durch verschiedene Differenzierungsforman und ansteigender Schwierigkeit
+- (Ü) Üben durch verschiedene Differenzierungsforman und ansteigender Schwierigkeit an Land und im Wasser
 - (K) Bei Fehlern sofort korrigieren (das gilt auch dann, wenn der Assistent die Übungen fehlerhaft zeigt)
 - Alle Teilnehmer üben das zu Anfangs gezeigt Lernziel!
 - Gemeinsamer Abschluß an Land und Ausblick auf die nächste Übungsstunde
   
 Des weiteren ist es hilfreich
 - eine Partnerübung in die Übungsreihen ein zu bauen (z.B. Wer gleitet am weitesten, Wasserpumpe ...)
-- mindestens Hilfsmittel zu verwenden
+- mindestens ein Hilfsmittel zu verwenden (Brettchen, Nudel, Pullbuoy)
