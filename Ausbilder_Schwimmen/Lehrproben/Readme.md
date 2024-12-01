@@ -34,11 +34,11 @@ Zur Durchführung der Lehrproben stehen diverse didaktische Hilfsmittel zur Verf
 
 #### Generell gilt:
 - jede Übung auf dem Bauch, kann auch auf dem Rücken widerhohlt werden
-- Mindestens ein Ausbilder muss immer alle Teilnehmer im Blickfeld haben!
+- Mindestens ein Ausbilder/ Assistent muss immer alle Teilnehmer im Blickfeld haben!
 - den Assistenten aktiv einsetzen, z.B. bei neuen Übungen diesen die Übungen zeigen lassen, Übungsmaterial welches während der Lehrprobe im Wasser benötigt wird holt / bringt der Assistent
-- Bei vielen Teilnehmern 2 Gruppen bilden und eine durch den Assistenten führen lassen (Achtung, der Assistent arbeitet nicht selbständig, sondern auf Anweisung des Ausbilders)
+- Bei vielen Teilnehmern, 2 Gruppen bilden und eine durch den Assistenten führen lassen (Achtung, der Assistent arbeitet nicht selbständig, sondern auf Anweisung des Ausbilders)
 
-Der grobe Ablauf einer Übungstunde sieht dabei ungefähr immer so aus:
+#### "Stationen" einer Übungstunde:
 - Begin am Land im stehen (so hinstellen, dass die Teilnehmer hinter dem Ausbilder auf eine Wand schauen)
 - Übungen am Beckenrand (im Sitzen)
 - Übungen am Beckenrand (im Liegen)
@@ -49,7 +49,7 @@ Der grobe Ablauf einer Übungstunde sieht dabei ungefähr immer so aus:
 - Übung Lernziel
 - Abschluß an Land 
 
-#### Detailierterer Ablaug einer Übungsstunde:
+#### Detailierter Ablauf einer Übungsstunde:
 
 - Begrüßung
   - Zielgruppe Definieren (Alter und Fähigkeiten/ Ziel Abzeichen [Seepferdchen/ DSA Bronze..])
