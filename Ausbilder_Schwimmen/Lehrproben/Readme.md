@@ -1,5 +1,6 @@
 Die Praktische Prüfung zum Ausbilder Schwimmen besteht aus sogenannten Lehrproben.
-Stand 2024 gab es hierzu 12 (siehe Einzeldokumente).
+Stand 2024 gab es hierzu 12.
+1. [Wassergewöhnung](Lehrprobe_1_Wassergewoehung.md)
 
 Eine Lehrprobe ist dabei eine Künstlich (für die Prüfung) geschaffene Situation, welche eine "reale" Übungsstunde auf ca. 10-12 Minuten verkürzt darstellen soll.
 
