@@ -38,34 +38,35 @@ Zur Durchführung der Lehrproben stehen diverse didaktische Hilfsmittel zur Verf
 - den Assistenten aktiv einsetzen, z.B. bei neuen Übungen diesen die Übungen zeigen lassen, Übungsmaterial welches während der Lehrprobe im Wasser benötigt wird holt / bringt der Assistent
 - Bei vielen Teilnehmern 2 Gruppen bilden und eine durch den Assistenten führen lassen (Achtung, der Assistent arbeitet nicht selbständig, sondern auf Anweisung des Ausbilders)
 
-Der grobe Ablauf einer Übunstunde sieht dabei ungefähr immer so aus:
-- Begin am Land im stehen
+Der grobe Ablauf einer Übungstunde sieht dabei ungefähr immer so aus:
+- Begin am Land im stehen (so hinstellen, dass die Teilnehmer hinter dem Ausbilder auf eine Wand schauen)
 - Übungen am Beckenrand (im Sitzen)
 - Übungen am Beckenrand (im Liegen)
 - Übungen am Beckenrand liegend im Wasser (Achtung, über Leiter/ Treppe ins Wasser gehen!)
 - Übungen im Wasser mit Hilfe des Ausbilders/ Assistenten
 - Übungen im Wasser mit Hilfsmitteln (Brettchen/ Pullbuoy/ Nudel ..)
 - Übungen im Wasser ohne Hilfsmittel
+- Übung Lernziel
 - Abschluß an Land 
 
-#### Allgemeines Schema einer Übungsstunde/ Lehrprobe:
+#### Detailierterer Ablaug einer Übungsstunde:
 
 - Begrüßung
   - Zielgruppe Definieren (Alter und Fähigkeiten/ Ziel Abzeichen [Seepferdchen/ DSA Bronze..])
   - Sich selbst vorstellen
-  - Assistenten benennen (für Wasergewöhung typischerweise 2, sonst einer)
+  - Assistenten benennen (für Wassergewöhung typischerweise 2, sonst einer)
   - Badeaufsicht benennen (ist immer der Prüfer)
   - ggf. Tauchaufsicht definieren (nur bei Rettungsschwimmer Lehrproben notwendig)
   - Gesundheitscheck (kein Schmuck, alle Gesund ?)
   - Benennen des Lernziels der letzten Stunde, darauf aufbauend Lernziel aktuelle Stunde
-- (V) Lernziel Vorführen durch Assistent (im Wasser) (=> Die Übungstunde muss am ende immer das Lernziel als Übung beinhalten!)
+- (V) Lernziel Vorführen durch Assistent (im Wasser) (=> Die Übungstunde muss am Ende immer das Lernziel als Übung beinhalten!)
 - (E) Lernziel Vorführen durch Assistent (mit Erklärung und Hinweise auf Besonderheiten)
 - (V) An Land "Langsame" Widerhohlung des Lernziels durch Ausbilder
 - (E) An Land "Langsame" Widerhohlung des Lernziels durch Ausbilder mit detailierter Erklärung
 - (N) An Land gemeinsames Widerhohlen mit den Teilnehmern 
 - (Ü) Üben durch verschiedene Differenzierungsforman und ansteigender Schwierigkeit an Land und im Wasser
 - (K) Bei Fehlern sofort korrigieren (das gilt auch dann, wenn der Assistent die Übungen fehlerhaft zeigt)
-- Alle Teilnehmer üben das zu Anfangs gezeigt Lernziel!
+- Alle Teilnehmer üben das zu Anfangs gezeigte Lernziel!
 - Gemeinsamer Abschluß an Land und Ausblick auf die nächste Übungsstunde
   
 Des weiteren ist es hilfreich
