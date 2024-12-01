@@ -1,6 +1,17 @@
 Die Praktische Prüfung zum Ausbilder Schwimmen besteht aus sogenannten Lehrproben.
 Stand 2024 gab es hierzu 12.
-1. [Wassergewöhnung](Lehrprobe_1_Wassergewoehung.md)
+1. [Wassergewöhnung](Lehrprobe_Wassergewoehung.md)
+2. [Springen](Lehrprobe_Springen.md)
+3. [Atmen / Tauchen](Lehrprobe_AtmenTauchen.md)
+4. [Gleiten](Lehrprobe_Gleiten.md)
+5. [Auftreiben / Schweben](Lehrprobe_AuftreibenSchweben.md)
+6. [Brustbeinschlag](Lehrprobe_Brustbeinschlag.md)
+7. [Brustarmzug und Atmung](Lehrprobe_BrustarmzugUndAtmung.md)
+8. [Gesamtkoordination Brust](Lehrprobe_GesamtkoordinationBrust.md)
+9. [Kraulbeinschlag](Lehrprobe_Kraulbeinschlage.md)
+10. [Kraularmzug und Atmung](Lehrprobe_KraularmzugUndAtmung.md)
+11. [Gesamtkoordination Kraul](Lehrprobe_GesamtkoordinationKraul.md)
+12. [Startsprung](Lehrprobe_Startsprung.md)
 
 Eine Lehrprobe ist dabei eine Künstlich (für die Prüfung) geschaffene Situation, welche eine "reale" Übungsstunde auf ca. 10-12 Minuten verkürzt darstellen soll.
 
