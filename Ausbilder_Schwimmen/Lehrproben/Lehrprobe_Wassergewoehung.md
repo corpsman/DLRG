@@ -52,7 +52,7 @@ Lernziel Übung:
 - Bilden Straße immer der “letzte” geht durch, Sprizten (vor Durchgang immer sagen stark/mitteln/ wenig)
 
 An Land:
-- Verabschieden und Ausblick Atmen / Tauchen
+- Verabschieden und Ausblick: "Atmen/ Tauchen"
 
 Generel:
 - Auf Fehler achten und sofort Korrigieren !
