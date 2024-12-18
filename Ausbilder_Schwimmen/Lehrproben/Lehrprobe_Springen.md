@@ -38,7 +38,7 @@ Beckenrand:
 - Stehend am Beckenrand “reichen von Hand” beim ins Wasser hüpfen → Raus über Treppe
 - Stehend am Beckenrand “reichen von Nudel” beim ins Wasser hüpfen → Raus über Treppe
 
-=> Differenzierung durch "wegnehmen Hilfe" und "steigern "Höhe"
+=> Differenzierung durch "wegnehmen Hilfe" und "steigern Höhe"
 
 Lernziel Übung: 
 - Stehend am Beckenrand ohne Hilfe ins Wasser hüpfen → Raus über Treppe
